@@ -19,3 +19,16 @@ Build a Power BI dashboard that gives the revenue management team a single, reli
 3. **Insights** — surface additional findings not explicitly asked for in the metric list/mock-up, to add analytical value beyond the base requirement.
 
 4. >  Based on the Hospitality Domain project from the **Codebasics** Resume Project Challenge. Data model, base metric definitions, and mock-up dashboard were provided as part of the challenge; DAX implementation, additional KPIs, layout refinements, and insights below are my own work.
+
+<img width="1280" height="800" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/b716d33a-5cee-4129-adbe-6a861eb7a6f3" />
+
+## Data model
+
+<img width="1600" height="839" alt="WhatsApp Image 2026-07-24 at 3 33 41 PM" src="https://github.com/user-attachments/assets/956868de-c8a2-4e5a-9ad8-e12440d46540" />
+
+## Dashboard
+
+<img width="1115" height="654" alt="Hospitality domain 7_24_2026 3_52_17 PM (2)" src="https://github.com/user-attachments/assets/7c6ae9f0-5d3e-48e2-a32c-c8e49846be7e" />
+
+
+
