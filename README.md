@@ -42,23 +42,23 @@ Build a Power BI dashboard that gives the revenue management team a single, reli
 - **Power Query** – data cleaning & transformation
 - **DAX** – calculated measures for KPIs
 
-## KPIs Created Using DAX:  Total Bookings | Total Revenue | Average Rating | Total Capacity | Total Successful Bookings | Occupancy % | Total Cancelled Bookings Cancellation Rate | Revenue Loss | Total Stay
+- KPIs Created Using DAX:  Total Bookings | Total Revenue | Average Rating | Total Capacity | Total Successful Bookings | Occupancy % | Total Cancelled Bookings Cancellation Rate | Revenue Loss | Total Stay
 
 ## Some Important insights from the Dashboard
-#### Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
-#### Elite type rooms has the most booking and as well higher cancellation rate
-#### Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-#### AtliQ Exotica performs better compared to all 7 type of properties revenue, rating,occupancy percentage and cancellation rate.
-#### ADR stays flat (~12K–13K) all three months while occupancy fluctuates — indicating the property isn't adjusting prices for demand. Dynamic pricing during high-demand weeks could boost RevPar without hurting occupancy.
-#### June had the highest cancellation rate (25.09%).
-#### Strengthening partnership with logtrip and journey — both leading in Realisation% at 71% — can help boost bookings, as these channels convert reservations into revenue most efficiently
+- Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
+- Elite type rooms has the most booking and as well higher cancellation rate
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- AtliQ Exotica performs better compared to all 7 type of properties revenue, rating,occupancy percentage and cancellation rate.
+- ADR stays flat (~12K–13K) all three months while occupancy fluctuates — indicating the property isn't adjusting prices for demand. Dynamic pricing during high-demand weeks could boost RevPar without hurting occupancy.
+- June had the highest cancellation rate (25.09%).
+- Strengthening partnership with logtrip and journey — both leading in Realisation% at 71% — can help boost bookings, as these channels convert reservations into revenue most efficiently
 
 ## Key Learnings:
 
-#### Crafting data-driven stories through dashboards
-#### Understanding business needs & translating them into insights
-#### Optimizing visuals & using the right charts for effective communication
-#### Mastering DAX measures for meaningful KPIs
+- Crafting data-driven stories through dashboards
+- Understanding business needs & translating them into insights
+- Optimizing visuals & using the right charts for effective communication
+- Mastering DAX measures for meaningful KPIs
 
 
 
