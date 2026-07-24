@@ -10,6 +10,9 @@ To course-correct, AtliQ Grands' management decided to bring **Business and Data
 - Historical booking data exists but sits unused; there is no self-serve way for the revenue management team to track occupancy, pricing, and revenue trends over time.
 - Decisions are currently reactive rather than data-driven, putting AtliQ Grands at a disadvantage against competitors who already use BI tools.
 
+## Live Dashboard link
+https://app.powerbi.com/view?r=eyJrIjoiZmVlNzdjZDQtZTk0MS00YTlmLTg0MzQtMWI1MTYxNDk0OTZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Objective
 Build a Power BI dashboard that gives the revenue management team a single, reliable view of hotel performance — enabling them to spot underperforming properties/channels early and make faster, evidence-based pricing and revenue decisions.
 
