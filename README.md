@@ -30,5 +30,37 @@ Build a Power BI dashboard that gives the revenue management team a single, reli
 
 <img width="1115" height="654" alt="Hospitality domain 7_24_2026 3_52_17 PM (2)" src="https://github.com/user-attachments/assets/7c6ae9f0-5d3e-48e2-a32c-c8e49846be7e" />
 
+##  Dataset
+- `dim_date` – calendar/date dimension (day, week, month)
+- `dim_rooms` – room class (Standard, Elite, Premium, Presidential)
+- `dim_hotels` – property details (property_id, property_name, city, category: Luxury/Business)
+- `fact_bookings` – booking-level transactions (booking_id, property_id, check-in/out, room category, revenue_generated, revenue_realized, booking_platform, ratings, status)
+- `fact_aggregated_bookings` – daily aggregated capacity & successful bookings per property (used for DSRN/DBRN calculations)
+
+##  Tech Stack
+- **Power BI Desktop** – data modeling, DAX, dashboard
+- **Power Query** – data cleaning & transformation
+- **DAX** – calculated measures for KPIs
+
+## KPIs Created Using DAX:  Total Bookings | Total Revenue | Average Rating | Total Capacity | Total Successful Bookings | Occupancy % | Total Cancelled Bookings Cancellation Rate | Revenue Loss | Total Stay
+
+## Some Important insights from the Dashboard
+#### Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
+#### Elite type rooms has the most booking and as well higher cancellation rate
+#### Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+#### AtliQ Exotica performs better compared to all 7 type of properties revenue, rating,occupancy percentage and cancellation rate.
+#### ADR stays flat (~12K–13K) all three months while occupancy fluctuates — indicating the property isn't adjusting prices for demand. Dynamic pricing during high-demand weeks could boost RevPar without hurting occupancy.
+#### June had the highest cancellation rate (25.09%).
+#### Strengthening partnership with logtrip and journey — both leading in Realisation% at 71% — can help boost bookings, as these channels convert reservations into revenue most efficiently
+
+## Key Learnings:
+
+#### Crafting data-driven stories through dashboards
+#### Understanding business needs & translating them into insights
+#### Optimizing visuals & using the right charts for effective communication
+#### Mastering DAX measures for meaningful KPIs
+
+
+
 
 
